@@ -70,8 +70,8 @@ text-align: center;
     }
     
 img{
-    border:ridge 5px orange ;
-    border-radius: 50px;
+    border:ridge 0px orange ;
+    border-radius: 20px;
     position: relative;
     bottom: 48px;
 right: 5px;
